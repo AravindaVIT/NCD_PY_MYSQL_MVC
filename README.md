@@ -1,2 +1,1 @@
-# NCD_PY_MYSQL_MVC
-NCD_PY_MYSQL_MVC
+# NCD_python_mysql123
